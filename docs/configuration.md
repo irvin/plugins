@@ -36,13 +36,14 @@ If you want to load a simple URL like `https://www.messenger.com`, you can simpl
 <br /><br />
 If your service works with custom URLs, just leave this empty.
 <br /><br />
+
 **Examples**
+
 ```json
 {
     "serviceURL": "https://www.messenger.com"
 }
 ```
-<br />
 ```json
 {
     "serviceURL": "https://{teamID}.slack.com"
